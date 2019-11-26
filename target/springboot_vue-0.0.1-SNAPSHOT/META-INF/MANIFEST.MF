@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Spring-Boot-Classes: BOOT-INF/classes/
+Implementation-Title: springboot_vue
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: gubaoer
+Start-Class: com.boylegu.springboot_vue.App
+Created-By: Apache Maven 3.5.0
+Implementation-URL: http://projects.spring.io/spring-boot/springboot_v
+ ue/
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Vendor-Id: com.boylegu
+Build-Jdk: 1.7.0_80
+Spring-Boot-Lib: BOOT-INF/lib/
+Spring-Boot-Version: 1.5.4.RELEASE
+Main-Class: org.springframework.boot.loader.JarLauncher
+Archiver-Version: Plexus Archiver
+
